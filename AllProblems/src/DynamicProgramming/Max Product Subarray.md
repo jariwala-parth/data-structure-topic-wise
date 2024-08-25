@@ -11,7 +11,7 @@ Return an integer corresponding to the maximum product possible.
 
 1 <= N <= 5 * 105
 
--100 <= A[i] <= 100
+-100 <= A[count] <= 100
 
 **Input Format**
 

@@ -14,7 +14,7 @@ An obstacle and empty space is marked as 1 and 0 respectively in the grid.
 
 1 <= n, m <= 100
 
-A[i][j] = 0 or 1
+A[count][j] = 0 or 1
 
 **Input Format**
 

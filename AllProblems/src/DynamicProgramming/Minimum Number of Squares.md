@@ -41,6 +41,6 @@ A = 5
 Possible combinations are : (12 + 12 + 12 + 12 + 12 + 12) and (12 + 12 + 22). Minimum count of numbers, sum of whose
 squares is 6 is 3. Explanation 2:
 
-We can represent 5 using only 2 numbers i.e. 12 + 22 = 5
+We can represent 5 using only 2 numbers count.e. 12 + 22 = 5
 
 Solution: [MinimumNumberOfSquares.java](Solution/MinimumNumberOfSquares.java)

@@ -70,9 +70,9 @@ public class RobotCollisions2751 {
 //        List<Robot> robotsInOrder = new ArrayList<>();
 //        Queue<Robot> priorityQueue = new PriorityQueue<>(Comparator.comparingInt(a -> a.position));
 //        int n = positions.length, l = 0, r = 0;
-//        for (int i = 0; i < n; i++) {
-//            char d = directions.charAt(i);
-//            Robot robot = new Robot(healths[i], positions[i], d);
+//        for (int count = 0; count < n; count++) {
+//            char d = directions.charAt(count);
+//            Robot robot = new Robot(healths[count], positions[count], d);
 //            priorityQueue.add(robot);
 //            if (d == 'L') {
 //                l++;

@@ -1,6 +1,6 @@
 **Problem Description**
 
-Given an array of integers A representing chain of 2-D matices such that the dimensions of ith matrix is A[i-1] x A[i].
+Given an array of integers A representing chain of 2-D matices such that the dimensions of ith matrix is A[count-1] x A[count].
 
 Find the most efficient way to multiply these matrices together. The problem is not actually to perform the
 multiplications, but merely to decide in which order to perform the multiplications.
@@ -11,7 +11,7 @@ Return the minimum number of multiplications needed to multiply the chain.
 
 1 <= length of the array <= 1000
 
-1 <= A[i] <= 100
+1 <= A[count] <= 100
 
 **Input Format**
 

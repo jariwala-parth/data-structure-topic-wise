@@ -11,7 +11,7 @@ In this case, return the length of the longest increasing subsequence.
 
 0 <= length(A) <= 2500
 
-1 <= A[i] <= 2500
+1 <= A[count] <= 2500
 
 **Input Format**
 

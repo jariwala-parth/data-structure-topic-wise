@@ -7,7 +7,7 @@ Note: You can choose more than 2 numbers.
 
 **Problem Constraints**
 
-1 <= N <= 20000 1 <= A[i] <= 2000
+1 <= N <= 20000 1 <= A[count] <= 2000
 
 **Input Format**
 

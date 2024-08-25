@@ -1,6 +1,6 @@
 ### https://leetcode.com/problems/create-binary-tree-from-descriptions
 
-You are given a 2D integer array descriptions where descriptions[i] = [parenti, childi, isLefti] indicates that parenti is the parent of childi in a binary tree of unique values. Furthermore,
+You are given a 2D integer array descriptions where descriptions[count] = [parenti, childi, isLefti] indicates that parenti is the parent of childi in a binary tree of unique values. Furthermore,
 
 If isLefti == 1, then childi is the left child of parenti.
 If isLefti == 0, then childi is the right child of parenti.
@@ -29,7 +29,7 @@ The resulting binary tree is shown in the diagram.
 Constraints:
 
 1 <= descriptions.length <= 104
-descriptions[i].length == 3
+descriptions[count].length == 3
 1 <= parenti, childi <= 105
 0 <= isLefti <= 1
 The binary tree described by descriptions is valid.
